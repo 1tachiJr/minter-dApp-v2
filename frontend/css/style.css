@@ -1,6 +1,8 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Mochiy+Pop+One&Lobster&family=Mochiy+Pop+One&display=swap");
+
+
 
 /* GLOBAL STYLES */
 
@@ -8,9 +10,9 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #53f1f1;
+  --bg-color: #5800aa;
   --bg-color-transparent: #00163f80;
-  --font-color: #be2672;
+  --font-color: #76a2e4;
   --btn-bg-color: #39e6b2;
   --accent-color: #ee7f00;
   --header-shadow: var(--accent-color) 0px 0px 5px;

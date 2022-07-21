@@ -1,9 +1,9 @@
-const contractAddress = "0x35Df07A9125B97D163afA87EFc39BB1D5cF9ba48"; //Replace with your own contract address
+const contractAddress = ""; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to SpacetryNFT!!";
+const welcome_h1 = "Cosmic NoisiA";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'SpacetryNFTs are a set of mebership NFTs that give each holder access to an ever growing list of benifits and utilities. Spacesicles will be the first drop of the season, offering immediate access to a private discord community, weekly airdrops and giveaways, collaborative projects, a merch store, and even future voting rights in the community DAO! For more information checkout our public roadmap on <a href="https://discord.com/channels/953129369503670323/953149528884801646"  target="_blank" rel="noopener noreferrer">Discord.</a>';
+const welcome_p = 'The second drop from Spacetry has arrived, welcome to Cosmic Noisia. A generative collection of utility tokens designed to be the jack of all trades when it comes to utility. Hailing from the deepest regions of space The NoisiA is here to do one thing....take over the metaverse by spreading the virus of ~Utility~ throughout the web3 universe.  Cosmic Noisia is the next installment of membership NFTs offering access to a private community, holder exclusive merch store, voting rights in the community DAO, passive income and MORE!  For more information or to checkout a full list of benefits, visit our <a href="https://discord.com/channels/953129369503670323/953149528884801646"  target="_blank" rel="noopener noreferrer">Discord.</a>';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Now Open!!";
